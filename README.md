@@ -17,6 +17,7 @@
 2. Alien Master, alien.master@pluto.bom, P++
 1. Derrill Kennoly, derrillkennoly@gmail.com, python
 1. Osama Bin LaLoan, kaboom@gmail.com, B#
+5. Allan Adambo, AdamboAllan75@gmail.com, Javascript
 2.My name is Derrill, am serious with my phone number
 3.Derrill kennoly, python
 3. Derrill Kennoly, derrillkennoly@gmail.com, python
