@@ -17,3 +17,5 @@
 2. Alien Master, alien.master@pluto.bom, P++
 1. Derrill Kennoly, derrillkennoly@gmail.com, python
 3  Prof Jacob Moracha, jacobmoracha@gmail.com, English
+3. Hacked Adams, hacked.adams@gmail.com, dart
+1. Osama Bin LaLoan, kaboom@gmail.com, B#
