@@ -19,3 +19,7 @@
 1. Osama Bin LaLoan, kaboom@gmail.com, B#
 2.My name is Derrill, am serious with my phone number
 3.Derrill kennoly, python
+3. Derrill Kennoly, derrillkennoly@gmail.com, python
+4. Prof Jacob Moracha, jacobmoracha@gmail.com, English
+5. Hacked Adams, hacked.adams@gmail.com, dart
+6. Osama Bin LaLoan, kaboom@gmail.com, B#
