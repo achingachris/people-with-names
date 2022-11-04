@@ -1,5 +1,15 @@
 # People With Names Contributing Here
 
+## Intsructions to Contribute:
+
+- Fork This Repo
+- Clone it
+- Create a Branch
+- Add your details to README.md
+- Commit and Push your changes
+- Create a Pull Request
+- Your Changes Will be Merged
+
 ## The List
 <!-- are you serious with your phone? -->
 
