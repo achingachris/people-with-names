@@ -21,8 +21,8 @@ yeah am very much serious with my phne
 5. Reginald Ateya, reginaldateya@gmail.com, kotlin
 2. Joseph Kitheka, fluterhub1.21.0@gmail.com, Javascript/react
 5. Allan Adambo, AdamboAllan75@gmail.com, Javascript
-2.My name is Derrill, am serious with my phone number
-3.Derrill kennoly, python
+2. My name is Derrill, am serious with my phone number
+3. Derrill kennoly, python
 3. Derrill Kennoly, derrillkennoly@gmail.com, python
 4. Prof Jacob Moracha, jacobmoracha@gmail.com, English
 5. Hacked Adams, hacked.adams@gmail.com, dart
