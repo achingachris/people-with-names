@@ -21,6 +21,9 @@ yeah am very much serious with my phne
 5. Emmanuel Mwaele, emmanuelmwaele@gmail.com, Python
 1. Derrill Kennoly, derrillkennoly@gmail.com, python
 1. Osama Bin LaLoan, kaboom@gmail.com, B#
+1.fauzia adan, fauzia@gmail.com,html
+2.My name is Derrill, am serious with my phone number
+3.Derrill kennoly, python
 5. Reginald Ateya, reginaldateya@gmail.com, kotlin
 2. Joseph Kitheka, fluterhub1.21.0@gmail.com, Javascript/react
 5. Allan Adambo, AdamboAllan75@gmail.com, Javascript
