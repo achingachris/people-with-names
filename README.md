@@ -16,6 +16,9 @@ yeah am very much serious with my phne
 
 1. Chris Achinga, achinga.chris@gmail.com, C#
 2. Alien Master, alien.master@pluto.bom, P++
+3. Derrill Kennoly, derrillkennoly@gmail.com, python
+4. Osama Bin LaLoan, kaboom@gmail.com, B#
+5. Emmanuel Mwaele, emmanuelmwaele@gmail.com, Python
 1. Derrill Kennoly, derrillkennoly@gmail.com, python
 1. Osama Bin LaLoan, kaboom@gmail.com, B#
 5. Reginald Ateya, reginaldateya@gmail.com, kotlin
